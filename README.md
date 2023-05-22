@@ -10,4 +10,4 @@ in deze Cursus leer je over wat data is en hoe dit wordt ingeladen in een databa
 
 3 hoe werk ik met power bi en laad ik data hierin ( we zullen hier zelf een paar datasets in zetten )
 
-4 pas alle stof zelf toe om je eigen data inteladen in power bi ( laten studenten hun eiegen data set in laden
+4 pas alle stof zelf toe om je eigen data inteladen in power bi ( laten studenten hun eigen data set in laden
