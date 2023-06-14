@@ -4,7 +4,10 @@ In deze cursus leer je over de aard van gegevens en hoe ze worden ingeladen in e
 
 De cursus bestaat uit de volgende onderdelen:
 
-Introductie tot gegevens en hun werking (met een introductie tot GitHub).
-Het aanmaken van een database (met behulp van Azure en uitleg over wat Azure is).
-Werken met Power BI en het laden van gegevens (we zullen enkele datasets toevoegen).
-Het toepassen van alle geleerde stof om je eigen gegevens in Power BI te laden (studenten worden aangemoedigd hun eigen dataset te gebruiken).
+1. Introductie tot gegevens en hun werking (met een introductie tot GitHub).
+
+2. Het aanmaken van een database (met behulp van Azure en uitleg over wat Azure is).
+
+3. Werken met Power BI en het laden van gegevens.
+
+4. Het toepassen van alle geleerde stof om je eigen gegevens in Power BI te laden (studenten worden aangemoedigd hun eigen dataset te gebruiken).
