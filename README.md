@@ -11,3 +11,7 @@ De cursus bestaat uit de volgende onderdelen:
 3. Werken met Power BI en het laden van gegevens.
 
 4. Het toepassen van alle geleerde stof om je eigen gegevens in Power BI te laden (studenten worden aangemoedigd hun eigen dataset te gebruiken).
+
+Voor het maken van deze cursus is het van belang dat er gebruik wordt gemaakt van de documenten 1, 2 en 3. Deze moeten gedownload worden zodat er geen fouten in kunnen staan.
+
+Disclaimer: de meesten cursussen moeten vanuit huis gemaakt worden, omdat er een firewall is op het netwerk van de Hogeschool. Daarnaast is het van belang dat er gebruik wordt gemaakt van het schoolaccount.
