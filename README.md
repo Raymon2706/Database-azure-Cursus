@@ -4,10 +4,10 @@ In deze cursus leer je over de aard van gegevens en hoe ze worden ingeladen in e
 
 De cursus bestaat uit de volgende onderdelen:
 
-1. Introductie tot gegevens en hun werking (met een introductie tot GitHub).
+1. Introductie tot gegevens en hun werking 
 
-2. Het aanmaken van een database (met behulp van Azure en uitleg over wat Azure is).
+2. Het aanmaken van een database 
 
-3. Werken met Power BI en het laden van gegevens.
+3. Data inladen in je server en deze weergeven in Power-Bi 
 
-4. Het toepassen van alle geleerde stof om je eigen gegevens in Power BI te laden (studenten worden aangemoedigd hun eigen dataset te gebruiken).
+Om te beginnen met deze cursussen is het belangerijk dat je het word document download en opent op je computer. Dit kan je doen door op cursus 1 te klikken en dan op view Raw zodat hij het bestand download voor je. 
