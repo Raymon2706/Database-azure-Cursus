@@ -13,3 +13,5 @@ Cursus 3. Data inladen in je server en deze weergeven in Power-Bi
 Om te beginnen met deze cursussen is het belangerijk dat je het word document download en opent op je computer. Dit kan je doen door op cursus 1 te klikken en dan op view Raw zodat hij het bestand download voor je. Zodat je in het word document kan werken. Dit moet je ook doen voor de andere Cursussen.
 
 Veel plezier met leren over deze cursus 
+
+Disclaimer: Voor het maken van de cursus is het van belang dat dit niet op een schoolomgeving wordt gedaan. Dit heeft te maken met eventuele firewalls. Daarnaast moet er gebruik gemaakt worden van het schoolaccount.
