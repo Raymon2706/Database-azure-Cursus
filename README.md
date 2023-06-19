@@ -6,7 +6,7 @@ De cursus bestaat uit de volgende onderdelen:
 
 Cursus 1. Introductie tot gegevens en hun werking 
 
-Cursus 2. Het aanmaken van een database 
+Cursus 2. Het aanmaken van een database in Azure
 
 Cursus 3. Data inladen in je server en deze weergeven in Power-Bi 
 
